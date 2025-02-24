@@ -64,7 +64,6 @@
     <!--====================  header area ====================-->
     <div class="header-area header-area--default">
 
-        <!-- Header Top Wrap Start -->
         <div class="header-top-bar-info border-bottom d-none d-lg-block">
             <div class="container">
                 <div class="row">
@@ -97,9 +96,6 @@
                 </div>
             </div>
         </div>
-        <!-- Header Top Wrap End -->
-
-        <!-- Header Bottom Wrap Start -->
         <div class="header-bottom-wrap header-sticky">
             <div class="container">
                 <div class="row">
@@ -108,8 +104,8 @@
                             <!-- brand logo -->
                             <div class="header__logo">
                                 <a href="index.html">
-                                    <img src="assets/images/logo/Delex-logo-dark-vol2.png" aria-label="Mitech Logo" width="240" height="72" class="img-fluid light-logo" alt="">
-                                    <img src="assets/images/logo/Delex-logo-dark-vol2.png" aria-label="Mitech Logo" width="240" height="72" class="img-fluid dark-logo" alt="">
+                                    <img src="assets/images/logo/dark-logo.webp" aria-label="Mitech Logo" width="160" height="48" class="img-fluid light-logo" alt="">
+                                    <img src="assets/images/logo/delex-logo.png" aria-label="Mitech Logo" width="160" height="48" class="img-fluid dark-logo" alt="">
                                 </a>
                             </div>
 
@@ -166,9 +162,7 @@
                                                             <li><a href="corporate-trainings.html"><span>Corporate Trainings</span></a></li>
                                                         </ul>
                                                     </li>
-
                                                 </ul>
-
                                             </li>
                                             <li>
                                                 <a href="blog-grid-classic.html"><span>Blogs</span></a>
@@ -183,26 +177,26 @@
                                     </nav>
                                 </div>
 
+                                <div class="header-search-form-two white-icon">
+                                    <form action="#" class="search-form-top-active">
+                                        <div class="search-icon" id="search-overlay-trigger">
+                                            <a href="javascript:void(0)">
+                                                <i class="fa fa-search"></i>
+                                            </a>
+                                        </div>
+                                    </form>
                                 </div>
 
                                 <!-- mobile menu -->
-                                <div class="mobile-navigation-icon d-block d-xl-none" id="mobile-menu-trigger">
+                                <div class="mobile-navigation-icon white-md-icon d-block d-xl-none" id="mobile-menu-trigger">
                                     <i></i>
                                 </div>
-                                <!-- hidden icons menu -->
-                                <div class="hidden-icons-menu d-block d-md-none" id="hidden-icon-trigger">
-                                    <a href="javascript:void(0)">
-                                        <i class="far fa-ellipsis-h-alt"></i>
-                                    </a>
-                                </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Header Bottom Wrap End -->
 
     </div>
     <!--====================  End of header area  ====================-->
@@ -222,162 +216,348 @@
 
     <div id="main-wrapper">
         <div class="site-wrapper-reveal">
-           
-
-            <div class="vision-overview section-space--pt_100">
+            <div class="about-banner-wrap banner-space bg-img" data-bg="assets/images/bg/cyber-security-bg.jpeg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 section-title">
-                            <div class="section-title-wrap section-space--mb_30">
-                                <h3 class="heading">Privacy Policy</h3>
+                        <div class="col-lg-8 m-auto">
+                            <div class="about-banner-content text-center">
+                                <h1 class="mb-15 text-white">Cyber Security Services</h1>
+                                <h5 class="font-weight--normal text-white">Secure your digital assets with robust and intelligent cybersecurity solutions.</h5>
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+            <!--===========  feature-large-images-wrapper  Start =============-->
+            <div class="feature-large-images-wrapper section-space--ptb_100">
+                <div class="container">
+                    <div class="cybersecurity-about-box">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="modern-number-01">
+                                    <h3 class="heading mt-30">Discover Our Cyber Security <span class="text-color-primary"> Success Stories</span></h3>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 offset-lg-1">
+                                <div class="conact-us-wrap-one managed-it">
+                                    <h5 class="heading "><span class="text-color-primary"> Delexcent</span> excels in Cybersecurity Services, implementing robust security frameworks, threat intelligence, and compliance-driven strategies to safeguard digital assets. We specialize in risk management, data protection, and advanced threat mitigation to ensure business resilience.
+                                        
+                                    </h5>
+                                    <div class="sub-heading">Partner with us to strengthen your security posture, ensuring compliance, risk reduction, and a future-ready defense against evolving cyber threats.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!--===========  feature-large-images-wrapper  End =============-->
+
+            
+
+            <!--===========  feature-icon-wrapper  Start =============-->
+            <div class="feature-icon-wrapper section-space--pb_70">
+                <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="vision-content">
-                                <h6 class="heading">Effective Date: January 01, 2025 <br>
-                                    Delexcent Systems ("we," "our," or "us") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you interact with our website and services.
-                                </h6>
-
-                               
+                            <div class="section-title-wrap text-center section-space--mb_20">
+                                <h3 class="heading">Advanced Cyber Security Solutions</h3>
                             </div>
-
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="feature-list__three">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="grid-item animate">
+                                            <div class="ht-box-icon style-03">
+                                                <div class="icon-box-wrap">
+                                                    <div class="content-header">
+                                                        
+                                                        <h5 class="heading">
+                                                            Robust & Proactive Security
+                                                        </h5>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="text">Delexcent delivers cutting-edge cybersecurity solutions, enabling businesses to protect critical assets, mitigate threats, and maintain compliance with industry standards.</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="grid-item animate">
+                                            <div class="ht-box-icon style-03">
+                                                <div class="icon-box-wrap">
+                                                    <div class="content-header">
+                                                       
+                                                        <h5 class="heading">
+                                                            Secure & Resilient Architectures
+                                                        </h5>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="text">We design multi-layered security frameworks, integrating threat intelligence, zero-trust models, and encryption to safeguard systems, networks, and data.</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="grid-item animate">
+                                            <div class="ht-box-icon style-03">
+                                                <div class="icon-box-wrap">
+                                                    <div class="content-header">
+                                                       
+                                                        <h5 class="heading">
+                                                            Expert Cybersecurity Team
+                                                        </h5>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="text">Our skilled professionals specialize in risk assessment, incident response, IAM, and compliance, ensuring continuous security monitoring and proactive defense strategies.</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="grid-item animate">
+                                            <div class="ht-box-icon style-03">
+                                                <div class="icon-box-wrap">
+                                                    <div class="content-header">
+                                                        
+                                                        <h5 class="heading">
+                                                            Future-Ready Security Innovations
+                                                        </h5>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="text">We empower businesses with AI-driven threat detection, automated security operations, and advanced cybersecurity frameworks for long-term resilience and digital trust.</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-
-
-            <div class="requirements-vision section-space--pt_60">
+            <!--===========  feature-icon-wrapper  End =============-->
+            <div class="feature-images-wrapper section-space--ptb_100">
                 <div class="container">
-                    <div class="ht-problem-solution style-01">
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">1. Information We Collect</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li><span class="text-color-primary"> Personal Information:</span> Name, email, phone number, company details, etc., when you contact us or use our services.<br></li>
-                                            <li><span class="text-color-primary"> Technical Data:</span> IP address, browser type, device information, and cookies to enhance your experience.<br></li>
-                                            <li><span class="text-color-primary"> Usage Data:</span> Analytics on website visits and interactions to improve our services.</li>
-                                        </ul>
-                                    </div>
-                                </div>
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_40">
+                                <h6 class="section-sub-title mb-20">More features</h6>
+                                <h3 class="heading"><span class="text-color-primary">Comprehensive </span> Cybersecurity & Identity Solutions</h3>
                             </div>
+                            <!-- section-title-wrap Start -->
                         </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">2. How We Use Your Information</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li>To provide, maintain, and improve our services.</li>
-                                            <li> To communicate updates, offers, and service-related information.</li>
-                                            <li>To ensure security, prevent fraud, and comply with legal requirements.</li>
-                                        </ul>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="feature-images__serven">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-images style-07">
+                                            <div class="image-box-wrap">
+                                                <div class="box-image">
+                                                    <div class="default-image">
+                                                        <img class="img-fulid" src="assets/images/icons/cyber-security-robust-scalable-security-models-2.jpeg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="content">
+                                                    <h6 class="heading">Robust & Scalable Security Frameworks
+                                                        </h6>
+                                                    <div class="text">Protect IT infrastructure with multi-layered cybersecurity, IAM, and PAM strategies, ensuring resilience, compliance, and seamless threat mitigation.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">3. Data Protection & Security</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We implement industry-standard security measures to protect your data from unauthorized access, alteration, or disclosure.
+                                    <div class="col-lg-4 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-images style-07">
+                                            <div class="image-box-wrap">
+                                                <div class="box-image">
+                                                    <div class="default-image">
+                                                        <img class="img-fulid" src="assets/images/icons/cloud-services-realtime-insights.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="content">
+                                                    <h6 class="heading">Real-Time Threat Intelligence
+                                                        </h6>
+                                                    <div class="text">Leverage AI-driven analytics and continuous monitoring to detect, prevent, and respond to cyber threats proactively.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">4. Sharing & Disclosure</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We do not sell or share your data with third parties, except:
-                                        <ul class="footer-widget__list">
-                                            <li>When required by law.</li>
-                                            <li>With trusted partners for service delivery under strict confidentiality.</li>
-                                        </ul>
+                                    <div class="col-lg-4 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-images style-07">
+                                            <div class="image-box-wrap">
+                                                <div class="box-image">
+                                                    <div class="default-image">
+                                                        <img class="img-fulid" src="assets/images/icons/cloud-services-secure-resilient.jpeg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="content">
+                                                    <h6 class="heading">Secure & Compliant Identity Management
+                                                     </h6>
+                                                    <div class="text">Implement advanced IAM & PAM solutions, including zero-trust architectures and privileged access controls, to safeguard sensitive data and maintain regulatory compliance.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">5. Your Rights & Choices
-                                    </h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li>You can request access, correction, or deletion of your personal data.</li>
-                                            <li>You can opt out of marketing communications at any time.</li>
-                                        </ul>
+                                    <div class="col-lg-4 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-images style-07">
+                                            <div class="image-box-wrap">
+                                                <div class="box-image">
+                                                    <div class="default-image">
+                                                        <img class="img-fulid" src="assets/images/icons/cloud-services-automation-devops.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="content">
+                                                    <h6 class="heading">Automated Security & Risk Management
+                                                    </h6>
+                                                    <div class="text">Enhance agility with automated threat detection, incident response, and security orchestration for efficient risk mitigation and compliance adherence.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">6. Cookies & Tracking Technologies</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We use cookies to enhance website functionality. You can manage cookie preferences in your browser settings.
+                                    <div class="col-lg-4 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-images style-07">
+                                            <div class="image-box-wrap">
+                                                <div class="box-image">
+                                                    <div class="default-image">
+                                                        <img class="img-fulid" src="assets/images/icons/cloud-services-Multi-Cloud.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="content">
+                                                    <h6 class="heading">Integrated Security Solutions & Products
+                                                     </h6>
+                                                    <div class="text">Seamlessly align cybersecurity, cloud security, endpoint protection, and security products for a holistic, defense-in-depth approach.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">7. Updates to This Policy</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We may update this policy periodically. Continued use of our services indicates acceptance of the revised policy.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">8. Contact Us</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        For any questions or concerns about this Privacy Policy, contact us at info@delexcent.com
+                                    <div class="col-lg-4 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-images style-07">
+                                            <div class="image-box-wrap">
+                                                <div class="box-image">
+                                                    <div class="default-image">
+                                                        <img class="img-fulid" src="assets/images/icons/cloud-services-continuous-optimisation-support.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="content">
+                                                    <h6 class="heading">Continuous Monitoring & Professional Services
+                                                        </h6>
+                                                    <div class="text">Our security professionals provide ongoing assessments, optimization, and custom security solutions to keep your digital assets protected against evolving threats.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+            <!--===========  feature-images-wrapper  End =============-->
+            <!--===========  rev_redraw-wrapper  Start =============-->
+            <div class="rev_redraw-wrapper ">
+                <div class="rev_redraw-inner-box  bg-gray-2  section-space--mt_40 section-space--mb_40  rev_redraw-space">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="redraw-content text-center">
+                                    <h3 class="font-weight--reguler">Seamless integration for  <span class="text-color-primary">enhanced efficiency</span></h3>
+                                    <p class="redwaw-dec">Integrate these products effortlessly for optimal performance </p>
+                                    <div class="bedraw-button">
+                                        <a href="contact-us.html" class="ht-btn ht-btn-md">Get your free proposal sample – Contact us for more details! </a>
+                                    </div>
+                                </div>
 
-                    
+                                <div class="redraw-images">
+                                    <img class="img-fluid redrow-1 animate wow fadeInLeft" data-wow-delay="0.1s" src="assets/images/other/sehhasegura.png" alt="">
 
+                                    <img class="img-fluid redrow-2 animate wow fadeInLeft" data-wow-delay="0.2s" src="assets/images/other/f5.png" alt="">
+
+                                    <img class="img-fluid redrow-3 animate wow fadeInLeft" data-wow-delay="0.3s" src="assets/images/other/paloalto.jpeg" alt="">
+
+                                    <img class="img-fluid redrow-4 animate wow fadeInLeft" data-wow-delay="0.4s" src="assets/images/other/beyond-trust.png" alt="">
+
+                                    <img class="img-fluid redrow-5  animate wow fadeInLeft" data-wow-delay="0.1s" src="assets/images/other/cisco.png" alt="">
+
+                                    <img class="img-fluid redrow-6 animate wow fadeInLeft" data-wow-delay="0.3s" src="assets/images/other/secureauth.png" alt="">
+
+                                    <img class="img-fluid redrow-7 animate wow fadeInLeft" data-wow-delay="0.4s" src="assets/images/other/sailpoint.png" alt="">
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
+            <!--========= Pricing Table Area Start ==========-->
             
+            <!--========= Pricing Table Area End ==========-->
 
-            
+
+
+
+
+
+
+
+
+
+            <!--========== Call to Action Area Start ============-->
+            <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-8 col-lg-7">
+                            <div class="cta-content md-text-center">
+                                <h3 class="heading text-white">We run all kinds of IT services that vow your <span class="text-color-secondary"> success</span></h3>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-5">
+                            <div class="cta-button-group--one text-center">
+                                <a href="tel:+966534568828" class="btn btn--white btn-one"><i class="info-icon fa fa-phone"></i></span>  Let's talk</a>
+                                <a href="mailto:info@delexcent.com" class="btn btn--secondary  btn-two"><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Email Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--========== Call to Action Area End ============-->
+
+        </div>
 
 
         <!--====================  footer area ====================-->
-        <div class="footer-area-wrapper bg-gray">
+        <div class="footer-area-wrapper reveal-footer bg-gray">
             <div class="footer-area section-space--ptb_80">
                 <div class="container">
                     <div class="row footer-widget-wrapper">
@@ -416,6 +596,8 @@
                                 <li><a href="https://delexcent.com/" class="hover-style-link text-color-primary">www.delexcent.com</a></li>
                             </ul>
                         </div>
+
+                       
                     </div>
                 </div>
             </div>
@@ -456,18 +638,8 @@
         </div>
         <!--====================  End of footer area  ====================-->
 
-
-
-
-
-
-
-
-
-
-
-
     </div>
+
 
     <!--====================  scroll top ====================-->
     <a href="#" class="scroll-top" id="scroll-top">

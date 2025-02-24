@@ -61,10 +61,13 @@
         </div>
     </div>
 
+
+
+
+
     <!--====================  header area ====================-->
     <div class="header-area header-area--default">
 
-        <!-- Header Top Wrap Start -->
         <div class="header-top-bar-info border-bottom d-none d-lg-block">
             <div class="container">
                 <div class="row">
@@ -97,9 +100,6 @@
                 </div>
             </div>
         </div>
-        <!-- Header Top Wrap End -->
-
-        <!-- Header Bottom Wrap Start -->
         <div class="header-bottom-wrap header-sticky">
             <div class="container">
                 <div class="row">
@@ -114,6 +114,7 @@
                             </div>
 
                             <div class="header-right">
+
                                 <!-- navigation menu -->
                                 <div class="header__navigation d-none d-xl-block">
                                     <nav class="navigation-menu">
@@ -166,9 +167,7 @@
                                                             <li><a href="corporate-trainings.html"><span>Corporate Trainings</span></a></li>
                                                         </ul>
                                                     </li>
-
                                                 </ul>
-
                                             </li>
                                             <li>
                                                 <a href="blog-grid-classic.html"><span>Blogs</span></a>
@@ -183,8 +182,6 @@
                                     </nav>
                                 </div>
 
-                                </div>
-
                                 <!-- mobile menu -->
                                 <div class="mobile-navigation-icon d-block d-xl-none" id="mobile-menu-trigger">
                                     <i></i>
@@ -196,13 +193,12 @@
                                     </a>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Header Bottom Wrap End -->
+
 
     </div>
     <!--====================  End of header area  ====================-->
@@ -215,175 +211,397 @@
 
 
 
-
-
-
-
-
     <div id="main-wrapper">
-        <div class="site-wrapper-reveal">
+        <div class="site-wrapper-reveal section-space--pt__120">
+            <!--============ Service Hero Start ============-->
+            
+            <!--============ Service Hero End ============-->
+            <!--===========  feature-images-wrapper  Start =============-->
+            
+            <!--===========  feature-images-wrapper  End =============-->
+
+
+
+
+            <!--===========  Our Company History Start =============-->
+
            
 
-            <div class="vision-overview section-space--pt_100">
+            <!--===========  Our Company History Start  End =============-->
+
+
+
+
+
+
+            <!--===========  feature-icon-wrapper  Start =============-->
+            <div class="feature-icon-wrapper bg-gray section-space--ptb_100">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-12 section-title">
-                            <div class="section-title-wrap section-space--mb_30">
-                                <h3 class="heading">Privacy Policy</h3>
-                            </div>
-                        </div>
-                    </div>
+
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="vision-content">
-                                <h6 class="heading">Effective Date: January 01, 2025 <br>
-                                    Delexcent Systems ("we," "our," or "us") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you interact with our website and services.
-                                </h6>
+                            <div class="gradation-title-wrapper section-space--mb_60">
+                                <div class="gradation-title-wrap ">
+                                    <h6 class="section-sub-title text-black mb-20">Design Process at Delexcent</h6>
+                                    <h4 class="heading">Innovative, efficient design for <span class="text-color-primary">scalable solutions.</span></h4>
+                                </div>
 
-                               
+
+                                <div class="gradation-sub-heading">
+                                    <h3 class="heading"><mark>04</mark> Steps</h3>
+                                </div>
                             </div>
 
                         </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="ht-gradation style-01">
+                                <!-- Single item gradation Start -->
+                                <div class="item item-1 animate  wow fadeInRight" data-wow-delay="0.1s">
+                                    <div class="line"></div>
+                                    <div class="circle-wrap">
+                                        <div class="mask">
+                                            <div class="wave-pulse wave-pulse-1"></div>
+                                            <div class="wave-pulse wave-pulse-2"></div>
+                                            <div class="wave-pulse wave-pulse-3"></div>
+                                        </div>
+
+                                        <h6 class="circle">1</h6>
+                                    </div>
+
+                                    <div class="content-wrap">
+
+                                        <h6 class="heading">Discovery  &amp;  Planning</h6>
+
+                                        <div class="text">Understanding client needs, business goals, and technical feasibility to create a clear roadmap.</div>
+
+                                        
+                                    </div>
+                                </div>
+                                <!-- Single item gradation End -->
+
+                                <!-- Single item gradation Start -->
+                                <div class="item item-1 animate  wow fadeInRight" data-wow-delay="0.15s">
+                                    <div class="line"></div>
+                                    <div class="circle-wrap">
+                                        <div class="mask">
+                                            <div class="wave-pulse wave-pulse-1"></div>
+                                            <div class="wave-pulse wave-pulse-2"></div>
+                                            <div class="wave-pulse wave-pulse-3"></div>
+                                        </div>
+
+                                        <h6 class="circle">2</h6>
+                                    </div>
+
+                                    <div class="content-wrap">
+
+                                        <h6 class="heading">Concept &amp; Prototyping</h6>
+
+                                        <div class="text">Developing wireframes, UI/UX designs, and interactive prototypes for early validation.</div>
+
+                                       
+                                    </div>
+                                </div>
+                                <!-- Single item gradation End -->
+
+                                <!-- Single item gradation Start -->
+                                <div class="item item-1 animate  wow fadeInRight" data-wow-delay="0.20s">
+                                    <div class="line"></div>
+                                    <div class="circle-wrap">
+                                        <div class="mask">
+                                            <div class="wave-pulse wave-pulse-1"></div>
+                                            <div class="wave-pulse wave-pulse-2"></div>
+                                            <div class="wave-pulse wave-pulse-3"></div>
+                                        </div>
+
+                                        <h6 class="circle">3</h6>
+                                    </div>
+
+                                    <div class="content-wrap">
+
+                                        <h6 class="heading">Agile Development</h6>
+
+                                        <div class="text"> Iterative implementation with continuous feedback to refine and enhance functionality.</div>
+
+                                        
+                                    </div>
+                                </div>
+                                <!-- Single item gradation End -->
+
+                                <!-- Single item gradation Start -->
+                                <div class="item item-1 animate wow fadeInRight" data-wow-delay="0.25s">
+                                    <div class="line"></div>
+                                    <div class="circle-wrap">
+                                        <div class="mask">
+                                            <div class="wave-pulse wave-pulse-1"></div>
+                                            <div class="wave-pulse wave-pulse-2"></div>
+                                            <div class="wave-pulse wave-pulse-3"></div>
+                                        </div>
+
+                                        <h6 class="circle">4</h6>
+                                    </div>
+
+                                    <div class="content-wrap">
+
+                                        <h6 class="heading"> Testing  &amp; Deployment</h6>
+
+                                        <div class="text">Ensuring performance, security, and reliability before launching the final solution.</div>
+
+                                        
+                                    </div>
+                                </div>
+                                <!-- Single item gradation End -->
+                            </div>
+                        </div>
+                    </div>  
+
+                   
                 </div>
             </div>
+            <!--===========  feature-icon-wrapper  End =============-->
 
 
-            <div class="requirements-vision section-space--pt_60">
+
+            <!--====================  gradation process area ====================-->
+            <div class="gradation-process-area section-space--ptb_100">
                 <div class="container">
-                    <div class="ht-problem-solution style-01">
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">1. Information We Collect</h6>
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="gradation-title-wrapper section-space--mb_60">
+                                <div class="gradation-title-wrap ">
+                                    <h6 class="section-sub-title text-black mb-20">Delivery Process at Delexcent</h6>
+                                    <h4 class="heading">Seamless execution, timely delivery, <span class="text-color-primary">quality results.</span></h4>
                                 </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li><span class="text-color-primary"> Personal Information:</span> Name, email, phone number, company details, etc., when you contact us or use our services.<br></li>
-                                            <li><span class="text-color-primary"> Technical Data:</span> IP address, browser type, device information, and cookies to enhance your experience.<br></li>
-                                            <li><span class="text-color-primary"> Usage Data:</span> Analytics on website visits and interactions to improve our services.</li>
-                                        </ul>
-                                    </div>
+
+
+                                <div class="gradation-sub-heading">
+                                    <h3 class="heading"><mark>04</mark> Steps</h3>
                                 </div>
                             </div>
+
                         </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">2. How We Use Your Information</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li>To provide, maintain, and improve our services.</li>
-                                            <li> To communicate updates, offers, and service-related information.</li>
-                                            <li>To ensure security, prevent fraud, and comply with legal requirements.</li>
-                                        </ul>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="ht-gradation style-01">
+                                <!-- Single item gradation Start -->
+                                <div class="item item-1 animate  wow fadeInRight" data-wow-delay="0.1s">
+                                    <div class="line"></div>
+                                    <div class="circle-wrap">
+                                        <div class="mask">
+                                            <div class="wave-pulse wave-pulse-1"></div>
+                                            <div class="wave-pulse wave-pulse-2"></div>
+                                            <div class="wave-pulse wave-pulse-3"></div>
+                                        </div>
+
+                                        <h6 class="circle">1</h6>
+                                    </div>
+
+                                    <div class="content-wrap">
+
+                                        <h6 class="heading">Project Planning &amp; Strategy</h6>
+
+                                        <div class="text">Defining milestones, timelines, and resource allocation to ensure smooth execution.</div>
+
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">3. Data Protection & Security</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We implement industry-standard security measures to protect your data from unauthorized access, alteration, or disclosure.
+                                <!-- Single item gradation End -->
+
+                                <!-- Single item gradation Start -->
+                                <div class="item item-1 animate  wow fadeInRight" data-wow-delay="0.15s">
+                                    <div class="line"></div>
+                                    <div class="circle-wrap">
+                                        <div class="mask">
+                                            <div class="wave-pulse wave-pulse-1"></div>
+                                            <div class="wave-pulse wave-pulse-2"></div>
+                                            <div class="wave-pulse wave-pulse-3"></div>
+                                        </div>
+
+                                        <h6 class="circle">2</h6>
+                                    </div>
+
+                                    <div class="content-wrap">
+
+                                        <h6 class="heading">Agile Development &amp; Execution</h6>
+
+                                        <div class="text">Implementing iterative development using Agile/Scrum for flexibility and efficiency.</div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">4. Sharing & Disclosure</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We do not sell or share your data with third parties, except:
-                                        <ul class="footer-widget__list">
-                                            <li>When required by law.</li>
-                                            <li>With trusted partners for service delivery under strict confidentiality.</li>
-                                        </ul>
+                                <!-- Single item gradation End -->
+
+                                <!-- Single item gradation Start -->
+                                <div class="item item-1 animate  wow fadeInRight" data-wow-delay="0.20s">
+                                    <div class="line"></div>
+                                    <div class="circle-wrap">
+                                        <div class="mask">
+                                            <div class="wave-pulse wave-pulse-1"></div>
+                                            <div class="wave-pulse wave-pulse-2"></div>
+                                            <div class="wave-pulse wave-pulse-3"></div>
+                                        </div>
+
+                                        <h6 class="circle">3</h6>
+                                    </div>
+
+                                    <div class="content-wrap">
+
+                                        <h6 class="heading">Quality Assurance &amp; Testing</h6>
+
+                                        <div class="text">Conducting continuous integration, security checks, and performance validation at every stage.</div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">5. Your Rights & Choices
-                                    </h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li>You can request access, correction, or deletion of your personal data.</li>
-                                            <li>You can opt out of marketing communications at any time.</li>
-                                        </ul>
+                                <!-- Single item gradation End -->
+
+                                <!-- Single item gradation Start -->
+                                <div class="item item-1 animate wow fadeInRight" data-wow-delay="0.25s">
+                                    <div class="line"></div>
+                                    <div class="circle-wrap">
+                                        <div class="mask">
+                                            <div class="wave-pulse wave-pulse-1"></div>
+                                            <div class="wave-pulse wave-pulse-2"></div>
+                                            <div class="wave-pulse wave-pulse-3"></div>
+                                        </div>
+
+                                        <h6 class="circle">4</h6>
+                                    </div>
+
+                                    <div class="content-wrap">
+
+                                        <h6 class="heading">Deployment  &amp; Ongoing Support</h6>
+
+                                        <div class="text"> Ensuring seamless launch, monitoring, and long-term scalability with post-deployment maintenance.</div>
                                     </div>
                                 </div>
+                                <!-- Single item gradation End -->
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">6. Cookies & Tracking Technologies</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We use cookies to enhance website functionality. You can manage cookie preferences in your browser settings.
+                    </div>
+                </div>
+            </div>
+            <!--====================  End of gradation process area  ====================-->
+
+
+
+
+            <!--==================== Claim To Excel Area End ====================-->
+            <div class="claim-to-excel-area bg-gray section-space--ptb_120">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_60">
+                                <h2 class="heading">Extended Capabilities</h2>
+                            </div>
+                            <!-- section-title-wrap Start -->
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="claim-grid-group">
+                                <div class="ht-box-icon style-04">
+                                    <div class="icon-box-wrap color-one">
+                                        <div class="icon">
+                                            <span class="icon-basic-anticlockwise"></span>
+                                        </div>
+                                        <div class="content">
+                                            <h6 class="sub-heading">01</h6>
+                                            <h5 class="heading">Technology Consulting</h5>
+                                            <p class="text">Strategic guidance on IT solutions, digital transformation, and infrastructure optimization.</p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">7. Updates to This Policy</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We may update this policy periodically. Continued use of our services indicates acceptance of the revised policy.
+                                <div class="ht-box-icon style-04">
+                                    <div class="icon-box-wrap color-two">
+                                        <div class="icon">
+                                            <span class="icon-basic-life-buoy"></span>
+                                        </div>
+                                        <div class="content">
+                                            <h6 class="sub-heading">02</h6>
+                                            <h5 class="heading">Product Engineering</h5>
+                                            <p class="text">Full-cycle development of scalable, high-performance software solutions.</p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">8. Contact Us</h6>
+                                <div class="ht-box-icon style-04">
+                                    <div class="icon-box-wrap color-three">
+                                        <div class="icon">
+                                            <span class="icon-basic-world"></span>
+                                        </div>
+                                        <div class="content">
+                                            <h6 class="sub-heading">03</h6>
+                                            <h5 class="heading">Security & Compliance</h5>
+                                            <p class="text">Ensuring cybersecurity, data protection, and compliance with industry regulations.</p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        For any questions or concerns about this Privacy Policy, contact us at info@delexcent.com
+                                <div class="ht-box-icon style-04">
+                                    <div class="icon-box-wrap color-four">
+                                        <div class="icon">
+                                            <span class="icon-basic-case"></span>
+                                        </div>
+                                        <div class="content">
+                                            <h6 class="sub-heading">04</h6>
+                                            <h5 class="heading">Scalability & Performance Optimization</h5>
+                                            <p class="text">Enhancing system efficiency, reliability, and scalability for growth.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ht-box-icon style-04">
+                                    <div class="icon-box-wrap color-five">
+                                        <div class="icon">
+                                            <span class="icon-basic-lock"></span>
+                                        </div>
+                                        <div class="content">
+                                            <h6 class="sub-heading">05</h6>
+                                            <h5 class="heading">Cloud & DevOps Solutions</h5>
+                                            <p class="text">Optimizing cloud infrastructure, automation, and continuous integration for seamless operations.</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    
+                    <div class="row row--10">
+                        <div class="col-lg-12">
+                            <div class="success-stories-wrap mt-40">
+                                <div class="modern-number-01 me-5">
+                                    <h2 class="heading"><span class="mark-text">15</span></h2>
+                                    <p>YEARS IN THE FIELD</p>
+                                </div>
+                                <div class="content">
+                                    <h4 class="heading mb-20">Transforming challenges <br>into opportunities <br>through expert IT services.</h4>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
 
                 </div>
             </div>
+            <!--==================== Claim To Excel Area End ====================-->
 
+            <!--========= Pricing Table Area Start ==========-->
             
+            <!--====================  End of brand logo slider area  ====================-->
+        </div>
 
-            
+
 
 
         <!--====================  footer area ====================-->
-        <div class="footer-area-wrapper bg-gray">
+        <div class="footer-area-wrapper reveal-footer bg-gray">
             <div class="footer-area section-space--ptb_80">
                 <div class="container">
                     <div class="row footer-widget-wrapper">
                         <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
                             <div class="footer-widget__logo mb-30">
-                                <img src="assets/images/logo/Delex-logo-dark-vol2.png" width="160" height="48" class="img-fluid" alt="">
+                                <img src="assets/images/logo/delex-logo.jpg" width="160" height="48" class="img-fluid" alt="">
                             </div>
                             <div class="footer-widget__logo mb-30"><span class="text-color-primary"> Delexcent Systems </span>delivers cutting-edge solutions in Digital Transformation, Cloud, Cybersecurity, and Managed Services, empowering businesses with scalable, secure, and automation-driven technologies for seamless growth.</li>
                             </div>
@@ -416,6 +634,8 @@
                                 <li><a href="https://delexcent.com/" class="hover-style-link text-color-primary">www.delexcent.com</a></li>
                             </ul>
                         </div>
+
+                       
                     </div>
                 </div>
             </div>
@@ -464,17 +684,14 @@
 
 
 
-
-
-
     </div>
-
     <!--====================  scroll top ====================-->
     <a href="#" class="scroll-top" id="scroll-top">
         <i class="arrow-top fas fa-chevron-up"></i>
         <i class="arrow-bottom fas fa-chevron-up"></i>
     </a>
     <!--====================  End of scroll top  ====================-->
+
 
     <!--====================  mobile menu overlay ====================-->
     <div class="mobile-menu-overlay" id="mobile-menu-overlay">
@@ -596,13 +813,6 @@
     </div>
     <!--====================  End of search overlay  ====================-->
 
-
-
-
-
-
-
-
     <!-- JS
     ============================================ -->
     <!-- Modernizer JS -->
@@ -615,9 +825,63 @@
     <!-- Bootstrap JS -->
     <script src="assets/js/vendor/bootstrap.min.js"></script>
 
+    <!-- wow JS -->
+    <script src="assets/js/plugins/wow.min.js"></script>
+
+    <!-- Swiper Slider JS -->
+    <script src="assets/js/plugins/swiper.min.js"></script>
+
+    <!-- Light gallery JS -->
+    <script src="assets/js/plugins/lightgallery.min.js"></script>
+
+    <!-- Waypoints JS -->
+    <script src="assets/js/plugins/waypoints.min.js"></script>
+
+    <!-- Counter down JS -->
+    <script src="assets/js/plugins/countdown.min.js"></script>
+
+    <!-- Isotope JS -->
+    <script src="assets/js/plugins/isotope.min.js"></script>
+
+    <!-- Masonry JS -->
+    <script src="assets/js/plugins/masonry.min.js"></script>
+
+    <!-- ImagesLoaded JS -->
+    <script src="assets/js/plugins/images-loaded.min.js"></script>
+
+    <!-- Wavify JS -->
+    <script src="assets/js/plugins/wavify.js"></script>
+
+    <!-- jQuery Wavify JS -->
+    <script src="assets/js/plugins/jquery.wavify.js"></script>
+
+    <!-- circle progress JS -->
+    <script src="assets/js/plugins/circle-progress.min.js"></script>
+
+    <!-- counterup JS -->
+    <script src="assets/js/plugins/counterup.min.js"></script>
+
+    <!-- animation text JS -->
+    <script src="assets/js/plugins/animation-text.min.js"></script>
+
+    <!-- Vivus JS -->
+    <script src="assets/js/plugins/vivus.min.js"></script>
+
+    <!-- Some plugins JS -->
+    <script src="assets/js/plugins/some-plugins.js"></script>
+
+    <!-- Jquery Validate JS -->
+    <script src="assets/js/plugins/jquery.validate.min.js"></script>
+
+    <!-- Ajax JS -->
+    <script src="assets/js/plugins/ajax.js"></script>
+
+
     <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
 
-    <script src="assets/js/plugins/plugins.min.js"></script>
+    <!--         
+    <script src="assets/js/plugins/plugins.min.js"></script> 
+    -->
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>

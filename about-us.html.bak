@@ -64,7 +64,6 @@
     <!--====================  header area ====================-->
     <div class="header-area header-area--default">
 
-        <!-- Header Top Wrap Start -->
         <div class="header-top-bar-info border-bottom d-none d-lg-block">
             <div class="container">
                 <div class="row">
@@ -81,7 +80,7 @@
                             <div class="top-bar-right">
                                 <ul class="top-bar-info">
                                     <li class="info-item">
-                                        <a href="mailto:info@delexcent.com" class="info-link">
+                                        <a href="mailto:info@delexcent.com" class="info-link text-white">
                                             <i class="info-icon fa fa-info-circle"></i>
                                             <span class="info-text"><strong>info@delexcent.com</strong></span>
                                         </a>
@@ -108,7 +107,7 @@
                             <!-- brand logo -->
                             <div class="header__logo">
                                 <a href="index.html">
-                                    <img src="assets/images/logo/Delex-logo-dark-vol2.png" aria-label="Mitech Logo" width="240" height="72" class="img-fluid light-logo" alt="">
+                                    <img src="assets/images/logo/Delex-logo-blueWhite-vol2.png" aria-label="Mitech Logo" width="240" height="72" class="img-fluid light-logo" alt="">
                                     <img src="assets/images/logo/Delex-logo-dark-vol2.png" aria-label="Mitech Logo" width="240" height="72" class="img-fluid dark-logo" alt="">
                                 </a>
                             </div>
@@ -183,17 +182,19 @@
                                     </nav>
                                 </div>
 
+                                <div class="header-search-form-two white-icon">
+                                    <form action="#" class="search-form-top-active">
+                                        <div class="search-icon" id="search-overlay-trigger">
+                                            <a href="javascript:void(0)">
+                                                <i class="fa fa-search"></i>
+                                            </a>
+                                        </div>
+                                    </form>
                                 </div>
 
                                 <!-- mobile menu -->
-                                <div class="mobile-navigation-icon d-block d-xl-none" id="mobile-menu-trigger">
+                                <div class="mobile-navigation-icon white-md-icon d-block d-xl-none" id="mobile-menu-trigger">
                                     <i></i>
-                                </div>
-                                <!-- hidden icons menu -->
-                                <div class="hidden-icons-menu d-block d-md-none" id="hidden-icon-trigger">
-                                    <a href="javascript:void(0)">
-                                        <i class="far fa-ellipsis-h-alt"></i>
-                                    </a>
                                 </div>
                             </div>
 
@@ -219,165 +220,229 @@
 
 
 
-
     <div id="main-wrapper">
         <div class="site-wrapper-reveal">
-           
-
-            <div class="vision-overview section-space--pt_100">
+            <div class="about-banner-wrap banner-space about-us-bg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 section-title">
-                            <div class="section-title-wrap section-space--mb_30">
-                                <h3 class="heading">Privacy Policy</h3>
+                        <div class="col-lg-8 m-auto">
+                            <div class="about-banner-content text-center">
+                                <h1 class="mb-15 text-white">Delexcent Systems</h1>
+                                <h5 class="font-weight--normal text-white">Delivering Excellence in Technology. </h5>
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+            <!--===========  feature-large-images-wrapper  Start =============-->
+            <div class="feature-large-images-wrapper section-space--ptb_100">
+                <div class="container">
+
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="vision-content">
-                                <h6 class="heading">Effective Date: January 01, 2025 <br>
-                                    Delexcent Systems ("we," "our," or "us") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you interact with our website and services.
-                                </h6>
-
-                               
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_60">
+                                <h6 class="section-sub-title mb-20">Our company</h6>
+                                <h3 class="heading">Celebrating success through <span class="text-color-primary"> innovation, collaboration, </span> and a <span class="text-color-primary"> commitment </span> to excellence in every endeavor.</h3>
                             </div>
-
+                            <!-- section-title-wrap Start -->
                         </div>
                     </div>
+
+                    <div class="cybersecurity-about-box">
+                        <div class="row">
+                            <div class="col-lg-5 offset-lg-1">
+                                <div class="modern-number-01 number-two">
+                                    <h2 class="heading  me-5"><span class="mark-text">15</span>Years’ Experience in IT</h2>
+                                    <h5 class="heading mt-30">We’ve been triumphing all these <span class="text-color-primary"> 15 years. </span> Sacrifices are made up with success. </h5>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-5 ms-auto">
+                                <div class="faq-wrapper">
+                                    <div id="accordion">
+                                        <div class="card">
+                                            <div class="card-header" id="headingOne">
+                                                <h5 class="mb-0">
+                                                    <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                        Our Values: Integrity, Innovation & Collaboration <span> <i class="fas fa-chevron-down"></i>
+                                        <i class="fas fa-chevron-up"></i> </span>
+                                                    </button>
+                                                </h5>
+                                            </div>
+
+                                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
+                                                <div class="card-body">
+                                                    <p>We offer comprehensive consultation services, focusing on client success, delivering innovative solutions, and building strong, long-term relationships to ensure prosperous partnerships and sustainable growth. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card">
+                                            <div class="card-header" id="headingTwo">
+                                                <h5 class="mb-0">
+                                                    <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                        Our Mission: Empower<span> <i class="fas fa-chevron-down"></i>
+                                        <i class="fas fa-chevron-up"></i> </span>
+                                                    </button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
+                                                <div class="card-body">
+                                                    <p>To empower businesses with innovative IT solutions, delivering excellence through digital transformation, cloud services, and cybersecurity, while fostering growth, efficiency, and long-term success for our clients. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card">
+                                            <div class="card-header" id="headingThree">
+                                                <h5 class="mb-0">
+                                                    <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                        Our Vision: Inspire <span> <i class="fas fa-chevron-down"></i>
+                                        <i class="fas fa-chevron-up"></i> </span>
+                                                    </button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+                                                <div class="card-body">
+                                                    <p>To be a trusted global leader in providing cutting-edge technology solutions, transforming businesses, and driving sustainable innovation across industries. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
+            <!--===========  feature-large-images-wrapper  End =============-->
 
-
-            <div class="requirements-vision section-space--pt_60">
+            <!--===========  feature-large-images-wrapper  Start =============-->
+            <div class="feature-large-images-wrapper bg-gray section-space--ptb_100">
                 <div class="container">
-                    <div class="ht-problem-solution style-01">
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">1. Information We Collect</h6>
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_30">
+                                <h6 class="section-sub-title mb-20">Why Choose Us?</h6>
+                                <h3 class="heading">We <span class="text-color-primary">  excel</span> in delivering optimal solutions.</h3>
+                            </div>
+                            <!-- section-title-wrap Start -->
+                        </div>
+                    </div>
+
+                    <!--===========  here to put that =============-->
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="delivering-optimal-wrap">
+                                <div class="list-item">
+                                    <div class="marker"></div>
+                                    <div class="title-wrap">
+                                        <h5 class="title"> Digital Transformation Excellence </h5>
+                                        <div class="desc">We empower businesses with cutting-edge web development, mobile apps, and AI-driven solutions for a seamless digital journey. </div>
+                                    </div>
                                 </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li><span class="text-color-primary"> Personal Information:</span> Name, email, phone number, company details, etc., when you contact us or use our services.<br></li>
-                                            <li><span class="text-color-primary"> Technical Data:</span> IP address, browser type, device information, and cookies to enhance your experience.<br></li>
-                                            <li><span class="text-color-primary"> Usage Data:</span> Analytics on website visits and interactions to improve our services.</li>
-                                        </ul>
+                                <div class="list-item">
+                                    <div class="marker"></div>
+                                    <div class="title-wrap">
+                                        <h5 class="title"> Cloud & DevOps Services </h5>
+                                        <div class="desc">Optimizing operations with scalable cloud solutions, automation, and DevOps practices to enhance agility and efficiency. </div>
+                                    </div>
+                                </div>
+                                <div class="list-item">
+                                    <div class="marker"></div>
+                                    <div class="title-wrap">
+                                        <h5 class="title">Expert IT Professionals </h5>
+                                        <div class="desc">Our highly skilled team, trained in the latest technologies, delivers innovative and reliable IT solutions tailored to your needs. </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">2. How We Use Your Information</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li>To provide, maintain, and improve our services.</li>
-                                            <li> To communicate updates, offers, and service-related information.</li>
-                                            <li>To ensure security, prevent fraud, and comply with legal requirements.</li>
-                                        </ul>
+                        <div class="col-lg-6">
+                            <div class="delivering-optimal-wrap">
+                                <div class="list-item">
+                                    <div class="marker"></div>
+                                    <div class="title-wrap">
+                                        <h5 class="title">Cybersecurity & Risk Management </h5>
+                                        <div class="desc">Protecting businesses with advanced cybersecurity strategies, compliance solutions, and proactive threat mitigation. </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">3. Data Protection & Security</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We implement industry-standard security measures to protect your data from unauthorized access, alteration, or disclosure.
+                                <div class="list-item">
+                                    <div class="marker"></div>
+                                    <div class="title-wrap">
+                                        <h5 class="title">Smart Infrastructure & Networking </h5>
+                                        <div class="desc">Ensuring seamless IT infrastructure integration with modern networking solutions for high-performance and secure operations. </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">4. Sharing & Disclosure</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We do not sell or share your data with third parties, except:
-                                        <ul class="footer-widget__list">
-                                            <li>When required by law.</li>
-                                            <li>With trusted partners for service delivery under strict confidentiality.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">5. Your Rights & Choices
-                                    </h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li>You can request access, correction, or deletion of your personal data.</li>
-                                            <li>You can opt out of marketing communications at any time.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">6. Cookies & Tracking Technologies</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We use cookies to enhance website functionality. You can manage cookie preferences in your browser settings.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">7. Updates to This Policy</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We may update this policy periodically. Continued use of our services indicates acceptance of the revised policy.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">8. Contact Us</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        For any questions or concerns about this Privacy Policy, contact us at info@delexcent.com
+                                <div class="list-item">
+                                    <div class="marker"></div>
+                                    <div class="title-wrap">
+                                        <h5 class="title">IT Consulting & Managed Services </h5>
+                                        <div class="desc">Providing strategic IT consulting, resource contracting, and technology training to bridge industry gaps and drive success. </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-                    
-
                 </div>
             </div>
+            <!--===========  feature-large-images-wrapper  End =============-->
+
 
             
 
+            <!--===========  feature-icon-wrapper  Start =============-->
             
+            <!--===========  feature-icon-wrapper  End =============-->
 
+
+
+            <!--=========== fun fact Wrapper Start ==========-->
+            <div class="fun-fact-wrapper bg-theme-default section-space--pb_30 section-space--pt_60">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--one text-center">
+                                <h5 class="fun-fact__title text-white">Successfully worked <br> with </h5> 
+                                <div class="fun-fact__count counter text-white">22</div>
+                                <span class="fun-fact__text">Happy clients</span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--one text-center">
+                                <h5 class="fun-fact__title text-white">Successfully <br> completed</h5>
+                                <div class="fun-fact__count counter text-white">32</div>
+                                <span class="fun-fact__text">Finished projects</span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--one text-center">
+                                <h5 class="fun-fact__title text-white">Skilled <br> Experts</h5>
+                                <div class="fun-fact__count counter text-white">34</div>
+                                <span class="fun-fact__text">Head Count</span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--one text-center">
+                                <h5 class="fun-fact__title text-white">Blog <br> update</h5>
+                                <div class="fun-fact__count counter text-white">19</div>
+                                <span class="fun-fact__text">Blog Posts</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--=========== fun fact Wrapper End ==========-->
+            <!--============ Contact Us Area Start =================-->
+            
+            <!--============ Contact Us Area End =================-->
+
+        </div>
 
         <!--====================  footer area ====================-->
-        <div class="footer-area-wrapper bg-gray">
+        <div class="footer-area-wrapper reveal-footer bg-gray">
             <div class="footer-area section-space--ptb_80">
                 <div class="container">
                     <div class="row footer-widget-wrapper">
@@ -615,9 +680,63 @@
     <!-- Bootstrap JS -->
     <script src="assets/js/vendor/bootstrap.min.js"></script>
 
+    <!-- wow JS -->
+    <script src="assets/js/plugins/wow.min.js"></script>
+
+    <!-- Swiper Slider JS -->
+    <script src="assets/js/plugins/swiper.min.js"></script>
+
+    <!-- Light gallery JS -->
+    <script src="assets/js/plugins/lightgallery.min.js"></script>
+
+    <!-- Waypoints JS -->
+    <script src="assets/js/plugins/waypoints.min.js"></script>
+
+    <!-- Counter down JS -->
+    <script src="assets/js/plugins/countdown.min.js"></script>
+
+    <!-- Isotope JS -->
+    <script src="assets/js/plugins/isotope.min.js"></script>
+
+    <!-- Masonry JS -->
+    <script src="assets/js/plugins/masonry.min.js"></script>
+
+    <!-- ImagesLoaded JS -->
+    <script src="assets/js/plugins/images-loaded.min.js"></script>
+
+    <!-- Wavify JS -->
+    <script src="assets/js/plugins/wavify.js"></script>
+
+    <!-- jQuery Wavify JS -->
+    <script src="assets/js/plugins/jquery.wavify.js"></script>
+
+    <!-- circle progress JS -->
+    <script src="assets/js/plugins/circle-progress.min.js"></script>
+
+    <!-- counterup JS -->
+    <script src="assets/js/plugins/counterup.min.js"></script>
+
+    <!-- animation text JS -->
+    <script src="assets/js/plugins/animation-text.min.js"></script>
+
+    <!-- Vivus JS -->
+    <script src="assets/js/plugins/vivus.min.js"></script>
+
+    <!-- Some plugins JS -->
+    <script src="assets/js/plugins/some-plugins.js"></script>
+
+    <!-- Jquery Validate JS -->
+    <script src="assets/js/plugins/jquery.validate.min.js"></script>
+
+    <!-- Ajax JS -->
+    <script src="assets/js/plugins/ajax.js"></script>
+
+
     <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
 
-    <script src="assets/js/plugins/plugins.min.js"></script>
+    <!--         
+    <script src="assets/js/plugins/plugins.min.js"></script> 
+    -->
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>

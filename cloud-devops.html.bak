@@ -61,6 +61,18 @@
         </div>
     </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
     <!--====================  header area ====================-->
     <div class="header-area header-area--default">
 
@@ -81,14 +93,14 @@
                             <div class="top-bar-right">
                                 <ul class="top-bar-info">
                                     <li class="info-item">
-                                        <a href="mailto:info@delexcent.com" class="info-link">
-                                            <i class="info-icon fa fa-info-circle"></i>
-                                            <span class="info-text"><strong>info@delexcent.com</strong></span>
+                                        <a href="tel:+966534568828" class="info-link">
+                                            <i class="info-icon fa fa-phone"></i>
+                                            <span class="info-text"><strong>+9665 3456 8828</strong></span>
                                         </a>
                                     </li>
                                     <li class="info-item">
                                         <i class="info-icon fa fa-map-marker-alt"></i>
-                                        <span class="info-text">Riyadh, Dubai - <strong>GCC</strong></span>
+                                        <span class="info-text">Building# 13, 6652 Ibn Fares, Al Malaz, 3620, Riyadh 12836 - <strong>KSA</strong></span>
                                     </li>
                                 </ul>
                             </div>
@@ -97,9 +109,6 @@
                 </div>
             </div>
         </div>
-        <!-- Header Top Wrap End -->
-
-        <!-- Header Bottom Wrap Start -->
         <div class="header-bottom-wrap header-sticky">
             <div class="container">
                 <div class="row">
@@ -108,8 +117,8 @@
                             <!-- brand logo -->
                             <div class="header__logo">
                                 <a href="index.html">
-                                    <img src="assets/images/logo/Delex-logo-dark-vol2.png" aria-label="Mitech Logo" width="240" height="72" class="img-fluid light-logo" alt="">
-                                    <img src="assets/images/logo/Delex-logo-dark-vol2.png" aria-label="Mitech Logo" width="240" height="72" class="img-fluid dark-logo" alt="">
+                                    <img src="assets/images/logo/dark-logo.webp" aria-label="Mitech Logo" width="160" height="48" class="img-fluid light-logo" alt="">
+                                    <img src="assets/images/logo/delex-logo.png" aria-label="Mitech Logo" width="160" height="48" class="img-fluid dark-logo" alt="">
                                 </a>
                             </div>
 
@@ -166,9 +175,7 @@
                                                             <li><a href="corporate-trainings.html"><span>Corporate Trainings</span></a></li>
                                                         </ul>
                                                     </li>
-
                                                 </ul>
-
                                             </li>
                                             <li>
                                                 <a href="blog-grid-classic.html"><span>Blogs</span></a>
@@ -184,7 +191,6 @@
                                 </div>
 
                                 </div>
-
                                 <!-- mobile menu -->
                                 <div class="mobile-navigation-icon d-block d-xl-none" id="mobile-menu-trigger">
                                     <i></i>
@@ -196,194 +202,226 @@
                                     </a>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
-        <!-- Header Bottom Wrap End -->
+        <!--====================  End of header area  ====================-->
 
     </div>
-    <!--====================  End of header area  ====================-->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <div id="main-wrapper">
         <div class="site-wrapper-reveal">
-           
 
-            <div class="vision-overview section-space--pt_100">
+            <!--============ Software Innovation Hero Start ============-->
+            <div class="software-innovation-hero-wrapper section-space--pt_60">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-12 section-title">
-                            <div class="section-title-wrap section-space--mb_30">
-                                <h3 class="heading">Privacy Policy</h3>
+                    <div class="row align-items-center">
+                        <div class="col-12">
+                            <div class="software-innovation-hero-wrap wow move-up">
+                                <div class="software-innovation-hero-text">
+                                    <p class="sub-heading">Optimize, Automate, and Scale Effortlessly</p>
+                                    <h3>Unlock the Power of</h3>
+                                    <h1 class="font-weight--reguler mb-30">Cloud. </h1>
+                                    <h6 class="info-heading">Secure, agile, and scalable cloud solutions with seamless DevOps automation for business growth.</h6>
+                            
+                                </div>
                             </div>
                         </div>
+                        
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12 wow move-up">
+                            <!-- ht-box-icon Start -->
+                            <div class="ht-box-images style-10">
+                                <div class="image-box-wrap">
+                                    
+                                    <div class="content">
+                                        <h5 class="heading">Cloud Services</h5>
+                                        <p>Empower your business with secure, scalable, and cost-efficient cloud solutions. We offer seamless cloud adoption, migration, and optimization to enhance performance, reliability, and business agility.</p>
+                                        <div class="box-images-arrow">
+                                            <a href="cloud-services.html">
+                                                <span class="button-text">Discover now</span>
+                                                <i class="fas fa-arrow-right"></i>
+                                            </a>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- ht-box-icon End -->
+                        </div>
+                       
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12 wow move-up">
+                            <!-- ht-box-icon Start -->
+                            <div class="ht-box-images style-10">
+                                <div class="image-box-wrap">
+                                   
+                                    <div class="content">
+                                        <h5 class="heading">DevOps & Automation</h5>
+                                        <p>Accelerate software delivery with DevOps and automation. We streamline CI/CD pipelines, enhance collaboration & implement infrastructure as code, ensuring faster deployments, scalability, and operational efficiency.</p>
+                                        <div class="box-images-arrow">
+                                            <a href="devops.html">
+                                                <span class="button-text">Discover now</span>
+                                                <i class="fas fa-arrow-right"></i>
+                                            </a>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- ht-box-icon End -->
+                        </div>
                     </div>
+                </div>
+            </div>
+            <!--============ Software Innovation Hero End ============-->
+
+            
+            <!--===========  Projects wrapper Start =============-->
+            <div class="projects-wrapper projectinfotechno-bg section-space--ptb_100">
+                <div class="container">
+
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="vision-content">
-                                <h6 class="heading">Effective Date: January 01, 2025 <br>
-                                    Delexcent Systems ("we," "our," or "us") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you interact with our website and services.
-                                </h6>
-
-                               
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_40">
+                                <h6 class="section-sub-title mb-20">Case studies</h6>
+                                <h3 class="heading">Proud projects <span class="text-color-primary"> make us excel</span></h3>
                             </div>
+                            <!-- section-title-wrap Start -->
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="projects-wrap swiper-container projects-slider__container">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <!-- Projects Wrap Start -->
+                                        <a href="#" class="projects-wrap style-01 wow move-up">
+                                            <div class="projects-image-box">
+                                                
+                                                <div class="content">
+                                                    <h6 class="heading">Cloud Migration</h6>
+                                                    <div class="post-categories">FinBank Solutions</div>
+                                                    <div class="text">Migrated legacy banking infrastructure to a secure, scalable cloud environment, enhancing system performance, reducing costs, and ensuring regulatory compliance for seamless banking operations.
+                                                    </div>
+                                                    <div class="box-projects-arrow">
+                                                        <span class="button-text">Cloud Services</span>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <!-- Projects Wrap End -->
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <!-- Projects Wrap Start -->
+                                        <a href="#" class="projects-wrap style-01 wow move-up">
+                                            <div class="projects-image-box">
+                                                
+                                                <div class="content">
+                                                    <h6 class="heading">CI/CD Implementation</h6>
+                                                    <div class="post-categories">SwiftRetail</div>
+                                                    <div class="text">Delexcent has mplemented automated CI/CD pipelines, reducing deployment time by 60%, improving software quality, and enabling faster feature releases for a leading e-commerce platform.
+                                                    </div>
+                                                    <div class="box-projects-arrow">
+                                                        <span class="button-text">DevOps & Automation</span>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <!-- Projects Wrap End -->
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <!-- Projects Wrap Start -->
+                                        <a href="#" class="projects-wrap style-01 wow move-up">
+                                            <div class="projects-image-box">
+                                                
+                                                <div class="content">
+                                                    <h6 class="heading">Infrastructure as Code</h6>
+                                                    <div class="post-categories">NexaTech</div>
+                                                    <div class="text">Delexcent has automated infrastructure provisioning with Terraform and Kubernetes, improving scalability, reducing manual errors, and ensuring high availability for a SaaS-based analytics platform.
+                                                    </div>
+                                                    <div class="box-projects-arrow">
+                                                        <span class="button-text">DevOps & Automation</span>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <!-- Projects Wrap End -->
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <!-- Projects Wrap Start -->
+                                        <a href="#" class="projects-wrap style-01 wow move-up">
+                                            <div class="projects-image-box">
+                                                
+                                                <div class="content">
+                                                    <h6 class="heading">Hybrid Cloud Strategy</h6>
+                                                    <div class="post-categories">MedCare Systems</div>
+                                                    <div class="text">Designed and implemented a hybrid cloud architecture, optimizing workloads across public and private cloud, enhancing data security, and improving healthcare application performance.
+                                                    </div>
+                                                    <div class="box-projects-arrow">
+                                                        <span class="button-text">Cloud Services, DevOps & Automation</span>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <!-- Projects Wrap End -->
+                                    </div>
+
+                                </div>
+                                <div class="swiper-pagination swiper-pagination-project mt_20"></div>
+                            </div>
+
+                            <div class="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="contact-us.html">Take the challenge!</a></div>
 
                         </div>
                     </div>
                 </div>
             </div>
+            <!--===========  Projects wrapper End =============-->
 
-
-            <div class="requirements-vision section-space--pt_60">
+            <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
                 <div class="container">
-                    <div class="ht-problem-solution style-01">
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">1. Information We Collect</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li><span class="text-color-primary"> Personal Information:</span> Name, email, phone number, company details, etc., when you contact us or use our services.<br></li>
-                                            <li><span class="text-color-primary"> Technical Data:</span> IP address, browser type, device information, and cookies to enhance your experience.<br></li>
-                                            <li><span class="text-color-primary"> Usage Data:</span> Analytics on website visits and interactions to improve our services.</li>
-                                        </ul>
-                                    </div>
-                                </div>
+                    <div class="row align-items-center">
+                        <div class="col-xl-8 col-lg-7">
+                            <div class="cta-content md-text-center">
+                                <h3 class="heading text-white">We run all kinds of IT services that vow your <span class="text-color-secondary"> success</span></h3>
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">2. How We Use Your Information</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li>To provide, maintain, and improve our services.</li>
-                                            <li> To communicate updates, offers, and service-related information.</li>
-                                            <li>To ensure security, prevent fraud, and comply with legal requirements.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">3. Data Protection & Security</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We implement industry-standard security measures to protect your data from unauthorized access, alteration, or disclosure.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">4. Sharing & Disclosure</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We do not sell or share your data with third parties, except:
-                                        <ul class="footer-widget__list">
-                                            <li>When required by law.</li>
-                                            <li>With trusted partners for service delivery under strict confidentiality.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">5. Your Rights & Choices
-                                    </h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        <ul class="footer-widget__list">
-                                            <li>You can request access, correction, or deletion of your personal data.</li>
-                                            <li>You can opt out of marketing communications at any time.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">6. Cookies & Tracking Technologies</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We use cookies to enhance website functionality. You can manage cookie preferences in your browser settings.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">7. Updates to This Policy</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        We may update this policy periodically. Continued use of our services indicates acceptance of the revised policy.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <h6 class="problem">8. Contact Us</h6>
-                                </div>
-                                <div class="offset-md-1 col-md-7">
-                                    <div class="solution">
-                                        For any questions or concerns about this Privacy Policy, contact us at info@delexcent.com
-                                    </div>
-                                </div>
+                        <div class="col-xl-4 col-lg-5">
+                            <div class="cta-button-group--one text-center">
+                                <a href="tel:+966534568828" class="btn btn--white btn-one"><i class="info-icon fa fa-phone"></i></span>  Let's talk</a>
+                                <a href="mailto:info@delexcent.com" class="btn btn--secondary  btn-two"><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Email Us</a>
                             </div>
                         </div>
                     </div>
-
-                    
-
                 </div>
             </div>
 
-            
 
-            
+
+        </div>
+
 
 
         <!--====================  footer area ====================-->
-        <div class="footer-area-wrapper bg-gray">
+        <div class="footer-area-wrapper reveal-footer bg-gray">
             <div class="footer-area section-space--ptb_80">
                 <div class="container">
                     <div class="row footer-widget-wrapper">
                         <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
                             <div class="footer-widget__logo mb-30">
-                                <img src="assets/images/logo/Delex-logo-dark-vol2.png" width="160" height="48" class="img-fluid" alt="">
+                                <img src="assets/images/logo/delex-logo.jpg" width="160" height="48" class="img-fluid" alt="">
                             </div>
                             <div class="footer-widget__logo mb-30"><span class="text-color-primary"> Delexcent Systems </span>delivers cutting-edge solutions in Digital Transformation, Cloud, Cybersecurity, and Managed Services, empowering businesses with scalable, secure, and automation-driven technologies for seamless growth.</li>
                             </div>
@@ -468,13 +506,13 @@
 
 
     </div>
-
     <!--====================  scroll top ====================-->
     <a href="#" class="scroll-top" id="scroll-top">
         <i class="arrow-top fas fa-chevron-up"></i>
         <i class="arrow-bottom fas fa-chevron-up"></i>
     </a>
     <!--====================  End of scroll top  ====================-->
+
 
     <!--====================  mobile menu overlay ====================-->
     <div class="mobile-menu-overlay" id="mobile-menu-overlay">
@@ -486,7 +524,7 @@
                             <!-- logo -->
                             <div class="logo">
                                 <a href="index.html">
-                                    <img src="assets/images/logo/Delex-logo-dark-vol2.png" class="img-fluid" alt="">
+                                    <img src="assets/images/logo/delex-logo.jpg" class="img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -596,13 +634,6 @@
     </div>
     <!--====================  End of search overlay  ====================-->
 
-
-
-
-
-
-
-
     <!-- JS
     ============================================ -->
     <!-- Modernizer JS -->
@@ -615,9 +646,63 @@
     <!-- Bootstrap JS -->
     <script src="assets/js/vendor/bootstrap.min.js"></script>
 
+    <!-- wow JS -->
+    <script src="assets/js/plugins/wow.min.js"></script>
+
+    <!-- Swiper Slider JS -->
+    <script src="assets/js/plugins/swiper.min.js"></script>
+
+    <!-- Light gallery JS -->
+    <script src="assets/js/plugins/lightgallery.min.js"></script>
+
+    <!-- Waypoints JS -->
+    <script src="assets/js/plugins/waypoints.min.js"></script>
+
+    <!-- Counter down JS -->
+    <script src="assets/js/plugins/countdown.min.js"></script>
+
+    <!-- Isotope JS -->
+    <script src="assets/js/plugins/isotope.min.js"></script>
+
+    <!-- Masonry JS -->
+    <script src="assets/js/plugins/masonry.min.js"></script>
+
+    <!-- ImagesLoaded JS -->
+    <script src="assets/js/plugins/images-loaded.min.js"></script>
+
+    <!-- Wavify JS -->
+    <script src="assets/js/plugins/wavify.js"></script>
+
+    <!-- jQuery Wavify JS -->
+    <script src="assets/js/plugins/jquery.wavify.js"></script>
+
+    <!-- circle progress JS -->
+    <script src="assets/js/plugins/circle-progress.min.js"></script>
+
+    <!-- counterup JS -->
+    <script src="assets/js/plugins/counterup.min.js"></script>
+
+    <!-- animation text JS -->
+    <script src="assets/js/plugins/animation-text.min.js"></script>
+
+    <!-- Vivus JS -->
+    <script src="assets/js/plugins/vivus.min.js"></script>
+
+    <!-- Some plugins JS -->
+    <script src="assets/js/plugins/some-plugins.js"></script>
+
+    <!-- Jquery Validate JS -->
+    <script src="assets/js/plugins/jquery.validate.min.js"></script>
+
+    <!-- Ajax JS -->
+    <script src="assets/js/plugins/ajax.js"></script>
+
+
     <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
 
-    <script src="assets/js/plugins/plugins.min.js"></script>
+    <!--         
+    <script src="assets/js/plugins/plugins.min.js"></script> 
+    -->
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>

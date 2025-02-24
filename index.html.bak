@@ -81,7 +81,7 @@
                             <div class="top-bar-right">
                                 <ul class="top-bar-info">
                                     <li class="info-item">
-                                        <a href="mailto:info@delexcent.com" class="info-link text-white">
+                                        <a href="tel:+966534568828" class="info-link text-white">
                                             <i class="info-icon fa fa-info-circle"></i>
                                             <span class="info-text"><strong>info@delexcent.com</strong></span>
                                         </a>
@@ -304,7 +304,7 @@
                                                     <div class="text">Modernizing businesses with cloud adoption, DevOps automation, and seamless digital transformation strategies for growth.
                                                     </div>
                                                     <div class="box-images-arrow">
-                                                        <a href="digital-transformation.html">
+                                                        <a href="#">
                                                             <span class="button-text">Discover now</span>
                                                             <i class="fas fa-arrow-right"></i>
                                                         </a>
@@ -333,7 +333,7 @@
                                                     <div class="text">Optimizing IT with cloud migration, DevOps automation, CI/CD, and scalable infrastructure for business agility.
                                                     </div>
                                                     <div class="box-images-arrow">
-                                                        <a href="cloud-devops.html">
+                                                        <a href="#">
                                                             <span class="button-text">Discover now</span>
                                                             <i class="fas fa-arrow-right"></i>
                                                         </a>
@@ -362,7 +362,7 @@
                                                     <div class="text">Protecting businesses with advanced cybersecurity, threat detection, risk mgt, compliance, and robust security solutions.
                                                     </div>
                                                     <div class="box-images-arrow">
-                                                        <a href="cyber-security.html">
+                                                        <a href="#">
                                                             <span class="button-text">Discover now</span>
                                                             <i class="fas fa-arrow-right"></i>
                                                         </a>
