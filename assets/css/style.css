@@ -2350,7 +2350,7 @@ input[type=checkbox] {
   }
 }
 .header__logo > a img {
-  width: 240px;
+  width: 400px;
 }
 .header__logo .dark-logo {
   display: none;
